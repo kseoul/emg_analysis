@@ -4,7 +4,7 @@ This is a python script written to analyze emg and myography sensor data and gro
 ## Features of this Project
 
 ### A. Machine Learning
-1. # Perform Feature Selection/Extraction, PCA, and machine learning model on each user
+1. Perform Feature Selection/Extraction, PCA, and machine learning model on each user
 2. Decision Tree and SVM
 3. Recurrent Neural Networks
 4. Feature Extraction
